@@ -8,8 +8,8 @@ int main(){
     
     }
     else{
-        print("%d",b);
-        
+        printf("%d",b);
+
     }
     return 0;
 }
