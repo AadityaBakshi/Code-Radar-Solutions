@@ -1,8 +1,6 @@
 #include<stdio.h>
 int main(){
-    int number;
-    // printf("A single interger.  ");
-    scanf("%d",&number);
+    int number = 55;
     if(number%5==0 && number%11==0){
         printf("Divisble");
     }
