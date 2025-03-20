@@ -8,7 +8,7 @@ int main(){
     }
     // else-if(ch>='a' && ch<='z'){
         else{
-        print("Lowercase");
+        printf("Lowercase");
     }
     return 0;
 }
