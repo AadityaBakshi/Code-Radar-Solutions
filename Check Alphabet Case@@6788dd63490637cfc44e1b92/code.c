@@ -6,9 +6,11 @@ int main(){
         printf("Uppercase");
     
     }
-    // else-if(ch>='a' && ch<='z'){
-        else{
+    else if(ch>='a' && ch<='z'){
         printf("Lowercase");
+    }
+    else{
+        printf("Not an alpahabet");
     }
     return 0;
 }
