@@ -1,5 +1,6 @@
 #include<stdio.h>
-int main(){
+int main()
+int <math.h>{
     int a,b;
     scanf("%d",&a);
      scanf("%d",&b);
